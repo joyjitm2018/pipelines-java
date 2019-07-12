@@ -1,4 +1,6 @@
 
+https://dev.azure.com/joyjitm/joyjitm/_apis/build/status/joyjitm2018.pipelines-java?branchName=master
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
