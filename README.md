@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/joyjitm/joyjitm/_apis/build/status/joyjitm2018.pipelines-java?branchName=master)](https://dev.azure.com/joyjitm/joyjitm/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
